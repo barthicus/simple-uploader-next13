@@ -1,10 +1,14 @@
 # File Upload Example
 
-This shows how you can upload a file to Next.js 13 in the app directory using
-both client and server components. The client example is found in `app/page.tsx`
-and the server example is found in `app/server/page.tsx`.
+This shows how you can upload a file to Next.js 13 in the app directory using server components. The example is found in `app/page.tsx`.
 
 ## Getting Started
+
+Install deps:
+
+```bash
+pnpm install
+```
 
 First, run the development server:
 
